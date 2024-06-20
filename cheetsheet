@@ -1,0 +1,1 @@
+hostnamectl set-hostname control # to set host name 
